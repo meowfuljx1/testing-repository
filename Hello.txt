@@ -1,3 +1,4 @@
 print "he.llo";
 ....
 hello from advanced
+hello from main
